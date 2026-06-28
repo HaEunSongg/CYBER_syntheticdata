@@ -91,7 +91,7 @@ All five directional hypotheses confirmed. Generated r values recovered exactly 
 If you use this code, please cite:
 
 > Song, H. (2026). *MultiModal Behavioral Observation during Psychometric Testing
-> using IoT & AI — First-Order Pipeline Verification*. Master's project,
+> using IoT & AI - First-Order Pipeline Verification*. Master's project,
 > Erasmus Mundus CYBER, Université Paris Cité / Universidade Lusófona,
 > Centre Borelli (UMR9010).
 
@@ -112,4 +112,4 @@ If you use this code, please cite:
 
 ## License
 
-MIT License — see `LICENSE` file.
+MIT License : see `LICENSE` file.
