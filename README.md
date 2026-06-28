@@ -1,5 +1,5 @@
 # MultiModal Behavioral Observation during Psychometric Testing using IoT & AI
-### First-Order Pipeline Verification — 3-Channel Framework × BFI-2-S Personality
+### First-Order Pipeline Verification : 3-Channel Framework × BFI-2-S Personality
 
 **Programme:** Erasmus Mundus CYBER (Cyberspace Behavior and E-Therapy)  
 **Institutions:** Université Paris Cité 
