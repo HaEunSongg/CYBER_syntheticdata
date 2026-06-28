@@ -1,7 +1,6 @@
 # MultiModal Behavioral Observation during Psychometric Testing using IoT & AI
 ### First-Order Pipeline Verification — 3-Channel Framework × BFI-2-S Personality
 
-**Author:** Haeun Song  
 **Programme:** Erasmus Mundus CYBER (Cyberspace Behavior and E-Therapy)  
 **Institutions:** Université Paris Cité 
 **Lab:** Centre Borelli (UMR9010), in collaboration with Thales AVS  
